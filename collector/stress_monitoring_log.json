@@ -1,0 +1,1541 @@
+[
+  {
+    "timestamp": "2025-08-24T05:20:27.021717",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.92,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.6162620782852173,
+      "avg_typing_interval": 0.4108480470521109,
+      "typing_variance": 0.08302009671810477,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 6.4831037521362305,
+      "max_mouse_idle": 8.160503149032593,
+      "avg_mouse_speed": 1.2829716340931838,
+      "mouse_speed_variance": 1.2313715797206681,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:20:42.059405",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.997367799282074,
+      "avg_typing_interval": 0.4203943836277929,
+      "typing_variance": 0.18830263319753004,
+      "max_pause_duration": 2.176119804382324,
+      "avg_pause_duration": 2.1335664987564087,
+      "avg_mouse_idle": 7.673953056335449,
+      "max_mouse_idle": 10.958835363388062,
+      "avg_mouse_speed": 4272.772607070856,
+      "mouse_speed_variance": 56720242.62590312,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:20:57.071093",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9533578157424927,
+      "avg_typing_interval": 0.421000280765572,
+      "typing_variance": 1.9734020889505832,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 6.558839321136475,
+      "max_mouse_idle": 10.958835363388062,
+      "avg_mouse_speed": 942.277693009809,
+      "mouse_speed_variance": 10049026.145789133,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:21:12.094558",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.82,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.987834154834399,
+      "avg_typing_interval": 0.12620245695114135,
+      "typing_variance": 0.014735437449963291,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 6.558839321136475,
+      "max_mouse_idle": 10.958835363388062,
+      "avg_mouse_speed": 942.277693009809,
+      "mouse_speed_variance": 10049026.145789133,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:21:27.118963",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.88,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.991693615418292,
+      "avg_typing_interval": 0.22897265672683717,
+      "typing_variance": 0.057673722383960076,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 8.660701910654703,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 754.7315918452016,
+      "mouse_speed_variance": 9111546.235359205,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:21:42.142225",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.81,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9675668478012085,
+      "avg_typing_interval": 0.10016113996505738,
+      "typing_variance": 0.00643240958828398,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 9.834822484425136,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 748.3856108375331,
+      "mouse_speed_variance": 9117620.889820343,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:21:57.167454",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9991033673286438,
+      "avg_typing_interval": 0.2217734122276306,
+      "typing_variance": 0.09437024557734947,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 9.93265375494957,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 1002.656346895688,
+      "mouse_speed_variance": 8468858.667396713,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:22:12.199288",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.88,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9996696710586548,
+      "avg_typing_interval": 0.08111582517623901,
+      "typing_variance": 0.004163222656946181,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 7.589016338189443,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 405.8427610566145,
+      "mouse_speed_variance": 5636496.794950778,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:22:27.212412",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.7676072716712952,
+      "avg_typing_interval": 0.1206712508201599,
+      "typing_variance": 0.013917418605150368,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 6.407534450292587,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 356.4822604977435,
+      "mouse_speed_variance": 5505595.471104032,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:22:42.236738",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.84,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.902474582195282,
+      "avg_typing_interval": 0.13393602132797242,
+      "typing_variance": 0.012981495550303514,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 6.082229044702318,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 52.895382785683736,
+      "mouse_speed_variance": 22070.870439396836,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:22:57.261402",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.71,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9729778170585632,
+      "avg_typing_interval": 0.18800578117370606,
+      "typing_variance": 0.03731331281105895,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.030344883600871,
+      "avg_mouse_idle": 5.841049302708019,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 37.29201201664799,
+      "mouse_speed_variance": 15758.114241298501,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:23:12.301717",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9548224806785583,
+      "avg_typing_interval": 0.2696395802497864,
+      "typing_variance": 0.3009992840694993,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 5.135960626602173,
+      "avg_mouse_idle": 5.646151026089986,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 444.9305692435743,
+      "mouse_speed_variance": 5451185.57504456,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:23:27.318210",
+    "emotion": "angry",
+    "stress_level": 2,
+    "confidence": 0.67,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.6169739961624146,
+      "avg_typing_interval": 0.44971470594406127,
+      "typing_variance": 1.807414717635341,
+      "max_pause_duration": 13.823901653289795,
+      "avg_pause_duration": 6.216456072671073,
+      "avg_mouse_idle": 5.6333584880828855,
+      "max_mouse_idle": 19.17001485824585,
+      "avg_mouse_speed": 1095.3414912479734,
+      "mouse_speed_variance": 6505135.11050039,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:29:00.846685",
+    "emotion": "neutral",
+    "stress_level": 0,
+    "confidence": 0.84,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9455183148384094,
+      "avg_typing_interval": 0.3891247510910034,
+      "typing_variance": 0.1030618988669687,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 168.3912115397037,
+      "mouse_speed_variance": 87444.65654296767,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:29:15.868179",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9939901835930128,
+      "avg_typing_interval": 0.5534288228726855,
+      "typing_variance": 0.41868392054092596,
+      "max_pause_duration": 3.438991069793701,
+      "avg_pause_duration": 2.7260982990264893,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 168.3912115397037,
+      "mouse_speed_variance": 87444.65654296767,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:29:30.893599",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.84,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.7494214773178101,
+      "avg_typing_interval": 0.5026322935902795,
+      "typing_variance": 0.371854290789992,
+      "max_pause_duration": 3.438991069793701,
+      "avg_pause_duration": 2.8322912057240806,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 168.3912115397037,
+      "mouse_speed_variance": 87444.65654296767,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:29:45.934893",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9989839196205139,
+      "avg_typing_interval": 0.46257848739624025,
+      "typing_variance": 0.4721446038071713,
+      "max_pause_duration": 4.351469993591309,
+      "avg_pause_duration": 3.2120859026908875,
+      "avg_mouse_idle": 51.220484495162964,
+      "max_mouse_idle": 51.220484495162964,
+      "avg_mouse_speed": 91.70595026024172,
+      "mouse_speed_variance": 10268.822761184178,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:30:00.941986",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9860961428937998,
+      "avg_typing_interval": 0.36347222805023194,
+      "typing_variance": 0.2931908448478543,
+      "max_pause_duration": 4.351469993591309,
+      "avg_pause_duration": 3.1737857818603517,
+      "avg_mouse_idle": 51.220484495162964,
+      "max_mouse_idle": 51.220484495162964,
+      "avg_mouse_speed": 65.83171233452485,
+      "mouse_speed_variance": 8883.919283362582,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:30:16.002190",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9999970197677612,
+      "avg_typing_interval": 0.3414226818084717,
+      "typing_variance": 0.3700228648086221,
+      "max_pause_duration": 5.392523765563965,
+      "avg_pause_duration": 3.5435754458109536,
+      "avg_mouse_idle": 13.276094341278077,
+      "max_mouse_idle": 51.220484495162964,
+      "avg_mouse_speed": 2440.5218889958046,
+      "mouse_speed_variance": 21800010.717512056,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T05:30:31.028936",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9997808337211609,
+      "avg_typing_interval": 0.4493870735168457,
+      "typing_variance": 1.2269233705159217,
+      "max_pause_duration": 9.435942649841309,
+      "avg_pause_duration": 4.149330288171768,
+      "avg_mouse_idle": 13.276094341278077,
+      "max_mouse_idle": 51.220484495162964,
+      "avg_mouse_speed": 513.9051117520313,
+      "mouse_speed_variance": 334973.93137765955,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T11:05:31.860921",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.62,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9066119194030762,
+      "avg_typing_interval": 0.17823025630070613,
+      "typing_variance": 0.20899042562653608,
+      "max_pause_duration": 3.519497871398926,
+      "avg_pause_duration": 3.519497871398926,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T11:05:46.866525",
+    "emotion": "angry",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.5613973736763,
+      "avg_typing_interval": 0.12552982091903686,
+      "typing_variance": 0.06727116266009016,
+      "max_pause_duration": 3.519497871398926,
+      "avg_pause_duration": 2.9792808294296265,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T11:06:01.890682",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.71,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9291517818985245,
+      "avg_typing_interval": 0.21371323108673096,
+      "typing_variance": 0.2826644614789889,
+      "max_pause_duration": 4.691457033157349,
+      "avg_pause_duration": 3.5500062306722007,
+      "avg_mouse_idle": 39.868653774261475,
+      "max_mouse_idle": 39.868653774261475,
+      "avg_mouse_speed": 4930.6888342581115,
+      "mouse_speed_variance": 25772664.027652312,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T11:06:16.917806",
+    "emotion": "fear",
+    "stress_level": 1,
+    "confidence": 0.83,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.728571030071851,
+      "avg_typing_interval": 0.21371323108673096,
+      "typing_variance": 0.2826644614789889,
+      "max_pause_duration": 4.691457033157349,
+      "avg_pause_duration": 3.5500062306722007,
+      "avg_mouse_idle": 39.868653774261475,
+      "max_mouse_idle": 39.868653774261475,
+      "avg_mouse_speed": 4930.6888342581115,
+      "mouse_speed_variance": 25772664.027652312,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:33:15.728901",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.98,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9989900588387286,
+      "avg_typing_interval": 0.06778464078903199,
+      "typing_variance": 0.0021636858638202,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 414.5821670064882,
+      "mouse_speed_variance": 109706.98550320431,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:38:37.464818",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.94,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9992470144776711,
+      "avg_typing_interval": 0.11381104651917802,
+      "typing_variance": 0.03749526679167468,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 4.612730820973714,
+      "max_mouse_idle": 6.919078588485718,
+      "avg_mouse_speed": 1183.1408670054198,
+      "mouse_speed_variance": 1161476.6646591867,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:38:52.485038",
+    "emotion": "angry",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.5591097999680281,
+      "avg_typing_interval": 0.06810827732086182,
+      "typing_variance": 0.002381187943151849,
+      "max_pause_duration": 3.581502914428711,
+      "avg_pause_duration": 3.581502914428711,
+      "avg_mouse_idle": 4.612730820973714,
+      "max_mouse_idle": 6.919078588485718,
+      "avg_mouse_speed": 1183.1408670054198,
+      "mouse_speed_variance": 1161476.6646591867,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:39:07.512056",
+    "emotion": "sad",
+    "stress_level": 1,
+    "confidence": 0.84,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.9999994039535522,
+      "avg_typing_interval": 0.054767806529998776,
+      "typing_variance": 0.005582070657070579,
+      "max_pause_duration": 8.684206485748291,
+      "avg_pause_duration": 6.132854700088501,
+      "avg_mouse_idle": 8.723447918891907,
+      "max_mouse_idle": 21.055599212646484,
+      "avg_mouse_speed": 1092.2372481463674,
+      "mouse_speed_variance": 1121269.867905794,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:39:22.509680",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.89,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9986909031867981,
+      "avg_typing_interval": 0.16636937618255615,
+      "typing_variance": 0.6188274857918199,
+      "max_pause_duration": 8.684206485748291,
+      "avg_pause_duration": 6.723605632781982,
+      "avg_mouse_idle": 10.82674012184143,
+      "max_mouse_idle": 21.055599212646484,
+      "avg_mouse_speed": 1079.9655035076216,
+      "mouse_speed_variance": 1121923.7531142714,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:39:37.531809",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.8,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9998636245727539,
+      "avg_typing_interval": 0.08979182243347168,
+      "typing_variance": 0.011490744296639828,
+      "max_pause_duration": 8.684206485748291,
+      "avg_pause_duration": 6.723605632781982,
+      "avg_mouse_idle": 10.7405024596623,
+      "max_mouse_idle": 21.055599212646484,
+      "avg_mouse_speed": 1048.689246268717,
+      "mouse_speed_variance": 1115309.562422999,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:39:52.547519",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.5204464793205261,
+      "avg_typing_interval": 0.10879324197769165,
+      "typing_variance": 0.03891994250318505,
+      "max_pause_duration": 8.684206485748291,
+      "avg_pause_duration": 6.723605632781982,
+      "avg_mouse_idle": 9.224801354938084,
+      "max_mouse_idle": 21.055599212646484,
+      "avg_mouse_speed": 1717.666922113458,
+      "mouse_speed_variance": 4149031.2561947666,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:53:50.102321",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.8,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.799981641768315,
+      "avg_typing_interval": 0.07144438743591308,
+      "typing_variance": 0.0027342432222195383,
+      "max_pause_duration": 3.399470329284668,
+      "avg_pause_duration": 3.399470329284668,
+      "avg_mouse_idle": 2.627427577972412,
+      "max_mouse_idle": 2.627427577972412,
+      "avg_mouse_speed": 897.466416290489,
+      "mouse_speed_variance": 2095071.4585528695,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:54:05.110227",
+    "emotion": "angry",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.8200839757919312,
+      "avg_typing_interval": 0.07990872144699096,
+      "typing_variance": 0.004181195165810385,
+      "max_pause_duration": 3.399470329284668,
+      "avg_pause_duration": 3.399470329284668,
+      "avg_mouse_idle": 2.627427577972412,
+      "max_mouse_idle": 2.627427577972412,
+      "avg_mouse_speed": 897.466416290489,
+      "mouse_speed_variance": 2095071.4585528695,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:54:20.110774",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.8,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9626095294952393,
+      "avg_typing_interval": 0.07990872144699096,
+      "typing_variance": 0.004181195165810385,
+      "max_pause_duration": 3.399470329284668,
+      "avg_pause_duration": 3.399470329284668,
+      "avg_mouse_idle": 2.627427577972412,
+      "max_mouse_idle": 2.627427577972412,
+      "avg_mouse_speed": 897.466416290489,
+      "mouse_speed_variance": 2095071.4585528695,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:54:35.137059",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.88,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.41005390882492065,
+      "avg_typing_interval": 0.07990872144699096,
+      "typing_variance": 0.004181195165810385,
+      "max_pause_duration": 3.399470329284668,
+      "avg_pause_duration": 3.399470329284668,
+      "avg_mouse_idle": 27.1540207862854,
+      "max_mouse_idle": 51.68061399459839,
+      "avg_mouse_speed": 631.4428230791785,
+      "mouse_speed_variance": 1962019.9361792323,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:56:43.558226",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.66,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9954201576364134,
+      "avg_typing_interval": 1.2040493488311768,
+      "typing_variance": 0.0,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:56:58.558652",
+    "emotion": "happy",
+    "stress_level": 1,
+    "confidence": 0.74,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9986239671707153,
+      "avg_typing_interval": 2.5058988332748413,
+      "typing_variance": 12.738437971836746,
+      "max_pause_duration": 8.636981725692749,
+      "avg_pause_duration": 8.636981725692749,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:57:13.590522",
+    "emotion": "happy",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9999558925628662,
+      "avg_typing_interval": 2.5058988332748413,
+      "typing_variance": 12.738437971836746,
+      "max_pause_duration": 8.636981725692749,
+      "avg_pause_duration": 8.636981725692749,
+      "avg_mouse_idle": 44.94459652900696,
+      "max_mouse_idle": 44.94459652900696,
+      "avg_mouse_speed": 605.0433808435455,
+      "mouse_speed_variance": 1722947.3843846698,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:57:28.692943",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.999624490737915,
+      "avg_typing_interval": 2.5058988332748413,
+      "typing_variance": 12.738437971836746,
+      "max_pause_duration": 8.636981725692749,
+      "avg_pause_duration": 8.636981725692749,
+      "avg_mouse_idle": 25.947523832321167,
+      "max_mouse_idle": 44.94459652900696,
+      "avg_mouse_speed": 1875.0441346702992,
+      "mouse_speed_variance": 16871360.206613142,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:59:44.771019",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.95,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9946703907650942,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T14:59:59.798780",
+    "emotion": "neutral",
+    "stress_level": 0,
+    "confidence": 0.73,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9651592373847961,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:00:14.821556",
+    "emotion": "angry",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.8545783758163452,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 0,
+      "mouse_speed_variance": 0,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:00:29.848020",
+    "emotion": "neutral",
+    "stress_level": 0,
+    "confidence": 0.82,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9273779988288879,
+      "avg_typing_interval": 0.050440236926078796,
+      "typing_variance": 0.0015503333855343636,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 116.6989438533783,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 359.3516011207832,
+      "mouse_speed_variance": 271054.2219733337,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:00:44.867034",
+    "emotion": "angry",
+    "stress_level": 1,
+    "confidence": 0.76,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.9754791245150044,
+      "avg_typing_interval": 0.050440236926078796,
+      "typing_variance": 0.0015503333855343636,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 116.6989438533783,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 2099.8724957081904,
+      "mouse_speed_variance": 12039429.21281729,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:00:59.878168",
+    "emotion": "angry",
+    "stress_level": 2,
+    "confidence": 0.68,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.7680293002093673,
+      "avg_typing_interval": 0.4692883902582629,
+      "typing_variance": 11.781531247027145,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 32.25265550613403,
+      "avg_mouse_idle": 116.6989438533783,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 2099.8724957081904,
+      "mouse_speed_variance": 12039429.21281729,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:01:14.867502",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.86,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9994331002235413,
+      "avg_typing_interval": 0.4845769852399826,
+      "typing_variance": 10.68859461729375,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 32.25265550613403,
+      "avg_mouse_idle": 73.74147033691406,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 2711.276067238943,
+      "mouse_speed_variance": 11734447.807112869,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:01:29.892409",
+    "emotion": "angry",
+    "stress_level": 2,
+    "confidence": 0.72,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.5902523398399353,
+      "avg_typing_interval": 0.4845769852399826,
+      "typing_variance": 10.68859461729375,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 32.25265550613403,
+      "avg_mouse_idle": 50.35153881708781,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 2062.620070708558,
+      "mouse_speed_variance": 5901394.020060135,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:01:45.185395",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.93,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.856779932975769,
+      "avg_typing_interval": 0.754058780670166,
+      "typing_variance": 15.934641085656656,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 28.368022203445435,
+      "avg_mouse_idle": 32.40111880302429,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 3142.8562223677322,
+      "mouse_speed_variance": 16685986.768416911,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:01:59.977987",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.91,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.8657292127609253,
+      "avg_typing_interval": 0.9156100153923035,
+      "typing_variance": 18.078360573693345,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 24.08763321240743,
+      "avg_mouse_idle": 32.40111880302429,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 444.58105071755267,
+      "mouse_speed_variance": 355428.3432236292,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:02:14.978961",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9974516034126282,
+      "avg_typing_interval": 1.1359168696403503,
+      "typing_variance": 18.69746143178374,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 14.654254992802938,
+      "avg_mouse_idle": 32.40111880302429,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 444.58105071755267,
+      "mouse_speed_variance": 355428.3432236292,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:02:30.027245",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9995186924647506,
+      "avg_typing_interval": 1.263023443222046,
+      "typing_variance": 18.667122017128285,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 11.804365187883377,
+      "avg_mouse_idle": 32.40111880302429,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 444.58105071755267,
+      "mouse_speed_variance": 355428.3432236292,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:02:45.024919",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.5790906548500061,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 32.40111880302429,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 444.58105071755267,
+      "mouse_speed_variance": 355428.3432236292,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:03:00.067465",
+    "emotion": "happy",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.7237262725830078,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 32.40111880302429,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 444.58105071755267,
+      "mouse_speed_variance": 355428.3432236292,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:03:15.107205",
+    "emotion": "happy",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.459734708070755,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 38.716217597325645,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 699.4566981023455,
+      "mouse_speed_variance": 1250042.3435361122,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:03:30.091496",
+    "emotion": "happy",
+    "stress_level": 1,
+    "confidence": 0.85,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.6871935725212097,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 38.716217597325645,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 699.4566981023455,
+      "mouse_speed_variance": 1250042.3435361122,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:03:45.107285",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9999943971633911,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 37.725391898836406,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 935.1251327143001,
+      "mouse_speed_variance": 10583599.518990004,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:04:00.138498",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.78,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9152607422756265,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 33.648953437805176,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 1517.2674821995379,
+      "mouse_speed_variance": 6153741.239063289,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:04:15.154941",
+    "emotion": "sad",
+    "stress_level": 2,
+    "confidence": 0.9,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.9829193353652954,
+      "avg_typing_interval": 1.3072432112693786,
+      "typing_variance": 18.620860083349402,
+      "max_pause_duration": 32.25265550613403,
+      "avg_pause_duration": 10.757727172639635,
+      "avg_mouse_idle": 31.330727312299942,
+      "max_mouse_idle": 116.6989438533783,
+      "avg_mouse_speed": 506.5814205582774,
+      "mouse_speed_variance": 520569.15275820834,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:35:50.698842",
+    "emotion": "neutral",
+    "stress_level": 0,
+    "confidence": 0.92,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.8173679331102451,
+      "avg_typing_interval": 0.20997336235913364,
+      "typing_variance": 0.0257579359781093,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 0,
+      "max_mouse_idle": 0,
+      "avg_mouse_speed": 1286.405641277099,
+      "mouse_speed_variance": 6693494.570513393,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:36:05.671161",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.71,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.540726991935193,
+      "avg_typing_interval": 0.192346453666687,
+      "typing_variance": 0.14058099373257904,
+      "max_pause_duration": 3.414339065551758,
+      "avg_pause_duration": 3.414339065551758,
+      "avg_mouse_idle": 10.431595921516418,
+      "max_mouse_idle": 18.399528980255127,
+      "avg_mouse_speed": 1468.402957934482,
+      "mouse_speed_variance": 2673314.846637049,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:36:20.684957",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.538759382889234,
+      "avg_typing_interval": 0.2524994683265686,
+      "typing_variance": 0.6223454234178318,
+      "max_pause_duration": 5.632181167602539,
+      "avg_pause_duration": 3.9222142100334167,
+      "avg_mouse_idle": 10.431595921516418,
+      "max_mouse_idle": 18.399528980255127,
+      "avg_mouse_speed": 864.0612462514696,
+      "mouse_speed_variance": 1456585.6163371175,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:36:35.694089",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.6142948865890503,
+      "avg_typing_interval": 0.2538117837905884,
+      "typing_variance": 0.6222018157097847,
+      "max_pause_duration": 5.632181167602539,
+      "avg_pause_duration": 3.9222142100334167,
+      "avg_mouse_idle": 11.357285896937052,
+      "max_mouse_idle": 18.399528980255127,
+      "avg_mouse_speed": 720.6875800254983,
+      "mouse_speed_variance": 556460.0684874404,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:36:50.712634",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.926236995907188,
+      "avg_typing_interval": 0.2538117837905884,
+      "typing_variance": 0.6222018157097847,
+      "max_pause_duration": 5.632181167602539,
+      "avg_pause_duration": 3.9222142100334167,
+      "avg_mouse_idle": 11.997785329818726,
+      "max_mouse_idle": 18.399528980255127,
+      "avg_mouse_speed": 469.0601549803421,
+      "mouse_speed_variance": 257057.72007775118,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:37:05.729862",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.71,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.7107489705085754,
+      "avg_typing_interval": 0.2538117837905884,
+      "typing_variance": 0.6222018157097847,
+      "max_pause_duration": 5.632181167602539,
+      "avg_pause_duration": 3.9222142100334167,
+      "avg_mouse_idle": 11.997785329818726,
+      "max_mouse_idle": 18.399528980255127,
+      "avg_mouse_speed": 457.07577494309425,
+      "mouse_speed_variance": 256357.84226484224,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T15:37:20.729847",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.8757464215604318,
+      "avg_typing_interval": 0.2538117837905884,
+      "typing_variance": 0.6222018157097847,
+      "max_pause_duration": 5.632181167602539,
+      "avg_pause_duration": 3.9222142100334167,
+      "avg_mouse_idle": 11.997785329818726,
+      "max_mouse_idle": 18.399528980255127,
+      "avg_mouse_speed": 457.07577494309425,
+      "mouse_speed_variance": 256357.84226484224,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:15:33.432820",
+    "emotion": "fear",
+    "stress_level": 1,
+    "confidence": 0.76,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.34232326402206803,
+      "avg_typing_interval": 0.12208290453310366,
+      "typing_variance": 0.014661640603216649,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 5.910812616348267,
+      "max_mouse_idle": 9.345070123672485,
+      "avg_mouse_speed": 1206.749567425226,
+      "mouse_speed_variance": 2806361.5690197423,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:15:48.460158",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.71,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9974277612480833,
+      "avg_typing_interval": 0.2534540742635727,
+      "typing_variance": 0.5775336089410927,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 4.425115585327148,
+      "avg_mouse_idle": 5.910812616348267,
+      "max_mouse_idle": 9.345070123672485,
+      "avg_mouse_speed": 1857.2086765450993,
+      "mouse_speed_variance": 2906075.9073691466,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:16:03.478469",
+    "emotion": "fear",
+    "stress_level": 1,
+    "confidence": 0.79,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.9945350885391235,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 11.372702360153198,
+      "max_mouse_idle": 22.29648184776306,
+      "avg_mouse_speed": 1838.303900651617,
+      "mouse_speed_variance": 2940555.3840827723,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:16:18.505756",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.7,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.999319314956665,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 8.361104154586792,
+      "max_mouse_idle": 22.29648184776306,
+      "avg_mouse_speed": 1363.3688489151045,
+      "mouse_speed_variance": 3723997.8784199087,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:16:33.527333",
+    "emotion": "fear",
+    "stress_level": 1,
+    "confidence": 0.79,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.9950045943260193,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 8.361104154586792,
+      "max_mouse_idle": 22.29648184776306,
+      "avg_mouse_speed": 1363.3688489151045,
+      "mouse_speed_variance": 3723997.8784199087,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:16:48.554338",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.88,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9333425839730997,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 12.294321775436401,
+      "max_mouse_idle": 31.96040987968445,
+      "avg_mouse_speed": 539.4455799662452,
+      "mouse_speed_variance": 555586.1847356139,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:17:03.578938",
+    "emotion": "fear",
+    "stress_level": 1,
+    "confidence": 0.79,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.9999920129776001,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 12.294321775436401,
+      "max_mouse_idle": 31.96040987968445,
+      "avg_mouse_speed": 418.9997125124458,
+      "mouse_speed_variance": 267104.6207250039,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:17:18.594403",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.88,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.7015232443809509,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 13.65237011228289,
+      "max_mouse_idle": 31.96040987968445,
+      "avg_mouse_speed": 412.3458585969675,
+      "mouse_speed_variance": 268252.5588606929,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:17:33.591046",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.7,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.9037114977836609,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 12.190917677349514,
+      "max_mouse_idle": 31.96040987968445,
+      "avg_mouse_speed": 550.2826011394957,
+      "mouse_speed_variance": 1175863.1075201745,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:17:48.595232",
+    "emotion": "neutral",
+    "stress_level": 1,
+    "confidence": 0.88,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.9995031356811523,
+      "avg_typing_interval": 0.30978265015975287,
+      "typing_variance": 0.7884492728494071,
+      "max_pause_duration": 6.311786890029907,
+      "avg_pause_duration": 3.998183012008667,
+      "avg_mouse_idle": 12.190917677349514,
+      "max_mouse_idle": 31.96040987968445,
+      "avg_mouse_speed": 550.2826011394957,
+      "mouse_speed_variance": 1175863.1075201745,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:43:57.681786",
+    "emotion": "angry",
+    "stress_level": 1,
+    "confidence": 0.82,
+    "features": {
+      "emotion_stress_score": 0.9,
+      "emotion_confidence": 0.5302152633666992,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 4.605026563008626,
+      "max_mouse_idle": 5.456113815307617,
+      "avg_mouse_speed": 950.6701185544549,
+      "mouse_speed_variance": 555975.49691897,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:44:12.689545",
+    "emotion": "sad",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.9318675954262968,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 4.671109962463379,
+      "max_mouse_idle": 6.0807294845581055,
+      "avg_mouse_speed": 345.59556053168365,
+      "mouse_speed_variance": 148028.12654270674,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:44:27.713108",
+    "emotion": "sad",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.8215797926878682,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 5.555071632067363,
+      "max_mouse_idle": 9.97487998008728,
+      "avg_mouse_speed": 342.7659931149457,
+      "mouse_speed_variance": 149182.6859023806,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:44:42.736779",
+    "emotion": "happy",
+    "stress_level": 0,
+    "confidence": 0.89,
+    "features": {
+      "emotion_stress_score": 0.1,
+      "emotion_confidence": 0.8030611276626587,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 5.555071632067363,
+      "max_mouse_idle": 9.97487998008728,
+      "avg_mouse_speed": 342.7659931149457,
+      "mouse_speed_variance": 149182.6859023806,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:44:57.758804",
+    "emotion": "fear",
+    "stress_level": 1,
+    "confidence": 0.87,
+    "features": {
+      "emotion_stress_score": 0.8,
+      "emotion_confidence": 0.986123263008789,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 10.225728682109288,
+      "max_mouse_idle": 38.24967098236084,
+      "avg_mouse_speed": 897.4615560467123,
+      "mouse_speed_variance": 619032.2751349754,
+      "estimated_blink_rate": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-08-24T16:45:12.778536",
+    "emotion": "neutral",
+    "stress_level": 0,
+    "confidence": 0.57,
+    "features": {
+      "emotion_stress_score": 0.4,
+      "emotion_confidence": 0.3694804906845093,
+      "avg_typing_interval": 0.5,
+      "typing_variance": 0.1,
+      "max_pause_duration": 0,
+      "avg_pause_duration": 0,
+      "avg_mouse_idle": 10.225728682109288,
+      "max_mouse_idle": 38.24967098236084,
+      "avg_mouse_speed": 1081.638054996794,
+      "mouse_speed_variance": 1514067.2634855187,
+      "estimated_blink_rate": 0.3
+    }
+  }
+]
